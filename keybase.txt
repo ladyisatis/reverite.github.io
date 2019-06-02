@@ -1,0 +1,69 @@
+==================================================================
+https://keybase.io/reverite
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://chalker.io
+  * I am reverite (https://keybase.io/reverite) on keybase.
+  * I have a public key with fingerprint CA2D 9F0B 0DD8 ECEF E98B  C85E AA4E 5B4E EC4B 9F0E
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101df97b7f82665925a47a090170042b82d12b6126ad7203acbe41a2bb80a8c9c140a",
+      "fingerprint": "ca2d9f0b0dd8ecefe98bc85eaa4e5b4eec4b9f0e",
+      "host": "keybase.io",
+      "key_id": "aa4e5b4eec4b9f0e",
+      "kid": "0101df97b7f82665925a47a090170042b82d12b6126ad7203acbe41a2bb80a8c9c140a",
+      "uid": "6a44059ad47bcea66f0dcc003af68219",
+      "username": "reverite"
+    },
+    "service": {
+      "hostname": "chalker.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1555104670,
+  "expire_in": 157680000,
+  "prev": "d34fbebc52d4a0ec2277041121ec7b3f90634246d16802c7a48da9d4bfbbf07b",
+  "seqno": 30,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.0
+Comment: https://keybase.io/crypto
+
+yMIkAnicrZJbSFRBGMd3UwvF0ohFCYo8EFFYzJmdc9uIKBDLC10skzCWuR33tLa7
+nj1r2VpWFNFD0oNE9mCiBd2tsIdNiAolWtuE3kwfBLtI96JeLLA5Vm89Ni/DfPP/
+/+b7f8zg/CxPnrfl+Ny3A86aI97hh2cTnvrbWV1JiURZixRISmE+u/FGxuNOMGwx
+KSABGcjMNDSimTpUVcWACkYaBgaQNQAQJDpkMiSqDFXMNAj8mBKOZAwJ0QHWqUFl
+BLBUKplWpIHbMduKOAJLMWSGCQhgTOeUm9zQCdUVjjHiCkGcU0TEPRfGUDTuOkRz
+BMf5GisqauIQnG3vH/r/3HdiFqdihIBiYIY0QjlWVRMwSoGwmaoOZcMVxrkdwfu4
+UNu8mduWw6VDpZKoNluUu4N1k/xR0BBuDHP7d5qYHXWiNNoo6iHHicUDrs9pibnC
+/ZwE/yCCxIowMUXhEPi4FY1IAVkoqWO5TFlRFBkgVQOlEj8Qs2wetFyFoqk6EMt9
+hzcLJPMjk3BCFcgQBpxCqGkAyTKUOdWI3zSA6kcQqUwWRkg1jHSGDYaISYgJNCK5
+oZoiUSngF1AHNwhm3GqIYCdhi8iPHtRne7x5nrk5c9zv5cnLLfz76SqK5s2U3Vte
+0Hm9ZlV7T3D6cNVI8+Rg/oN3Y6A3ayfs373nQ3rg/IebOe+KjyYmsucHwgvery2o
+rikd2ZNuHCYdLfnHautOpEfyPZkzF38sufslHEiefjq27f7e6qUzHd3B1b5vydab
+BW989X2bxzpHv08uu3Sqsm/Ri67n5TN1S++cba1KXSjxbhiq+fRxXfGTV6neT+mS
+1Jf+XSdDTTd8L33kfuWZr6O+nrXDbXTrwqsHk5nuDdPPFveGlF1TmzqGlmz/9vnG
++OMnBd1vi1JlyddtSnZmvOjzbaOwon1gdCgzXV625fKtqcH0nYlx8H7llfoduQnv
+xvUHV4ymps7VZoYLq679bB38BavnSEE=
+=d7hJ
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/reverite
+
+==================================================================
+
